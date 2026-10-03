@@ -1,0 +1,32 @@
+size 6
+
+iStart 0
+
+T_min 0.1
+T_max 1.5
+
+heis 1.00000000000
+DM 3.00000000000
+
+ext_field_1 0.0
+ext_field_2 0.0
+ext_field_3 0.0
+ext_field_4 0.0
+
+iSet 10
+iPT 10
+
+iTerm 500
+
+iMis 1000
+iDec 10
+
+iMinimize 1
+
+iSave 500
+iBackup 5000
+
+filenames_file aux/filenames_6.txt
+log_file log/log_6.txt
+
+random_seed 247
